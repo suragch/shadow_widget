@@ -1,7 +1,12 @@
 name: shadow_widget
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "A widget that adds a shadow effect to any Flutter widget."
+version: 0.1.0
+homepage: https://github.com/suragch/shadow_widget
+funding:
+  - https://www.buymeacoffee.com/suragchdev
+topics:
+  - widget
+  - shadow
 
 environment:
   sdk: ^3.5.0
@@ -17,4 +22,8 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   golden_toolkit: ^0.15.0
 
-flutter:
+flutter: null
+
+screenshots:
+  - description: 'Examples of a shadow being applied to various widgets.'
+    path: supplemental/shadow.gif
