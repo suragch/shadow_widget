@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Improve Pub score and display.
+
 ## 0.1.0
 
 - Initial release.
